@@ -1,0 +1,5 @@
+configuracion,seleccion,cruza_os,cruza_ma,mutacion_os,mutacion_ma,mejor,peor,promedio,desviacion,seleccionada
+A,torneo,pox,uniforme,intercambio,aleatoria,20.70,21.40,20.79,0.21,no
+B,ruleta,jbx,dos_puntos,insercion,aleatoria,20.70,22.30,20.94,0.38,no
+C,ranking,pox,uniforme,intercambio,balance,20.70,20.80,20.70,0.02,no
+D,torneo,pox,dos_puntos,insercion,balance,20.70,20.70,20.70,0.00,si

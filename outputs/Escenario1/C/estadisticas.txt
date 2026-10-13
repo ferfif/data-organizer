@@ -1,0 +1,7 @@
+Escenario: Escenario1
+Configuración: C
+Ejecuciones: 20
+Mejor makespan: 20.6000
+Peor makespan: 21.7000
+Promedio: 21.1900
+Desviación estándar: 0.3582

@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "planificador"
+version = "1.0.0"
+description = "Algoritmo genético para planificación de tareas (job shop flexible)"
+requires-python = ">=3.10"
+dependencies = ["matplotlib>=3.8"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

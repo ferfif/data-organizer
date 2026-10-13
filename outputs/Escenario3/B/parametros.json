@@ -1,0 +1,45 @@
+{
+  "escenario": "Escenario3",
+  "configuracion": {
+    "nombre": "B",
+    "seleccion": "ruleta",
+    "cruza_os": "jbx",
+    "cruza_ma": "dos_puntos",
+    "mutacion_os": "insercion",
+    "mutacion_ma": "aleatoria",
+    "poblacion": 200,
+    "generaciones": 500,
+    "pc": 0.9,
+    "pm": 0.4,
+    "elites": 2,
+    "torneo_k": 3
+  },
+  "semillas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "espacio_de_busqueda": {
+    "formula": "p^N * N! / prod(n_j!)",
+    "asignaciones": "173472347597680709441192448139190673828125",
+    "secuencias": "4082219138737398390351143276550361655156036235264000000",
+    "total": "708152137404958746383216868737202630133132543477358922245912253856658935546875000000000000000000"
+  }
+}

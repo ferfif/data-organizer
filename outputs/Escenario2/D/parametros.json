@@ -1,0 +1,45 @@
+{
+  "escenario": "Escenario2",
+  "configuracion": {
+    "nombre": "D",
+    "seleccion": "torneo",
+    "cruza_os": "pox",
+    "cruza_ma": "dos_puntos",
+    "mutacion_os": "insercion",
+    "mutacion_ma": "balance",
+    "poblacion": 200,
+    "generaciones": 500,
+    "pc": 0.9,
+    "pm": 0.4,
+    "elites": 2,
+    "torneo_k": 3
+  },
+  "semillas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "espacio_de_busqueda": {
+    "formula": "p^N * N! / prod(n_j!)",
+    "asignaciones": "10000000000000000000000000000000000000000",
+    "secuencias": "1960935616215555024467822400000000",
+    "total": "19609356162155550244678224000000000000000000000000000000000000000000000000"
+  }
+}

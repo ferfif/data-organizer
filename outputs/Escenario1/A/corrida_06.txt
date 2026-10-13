@@ -1,0 +1,49 @@
+Escenario: Escenario1
+Configuración: A
+Semilla: 6
+Makespan (C_max): 21.70
+Carga máxima por máquina (f1): 21.30
+Consumo energético total: 94.10
+
+Máquina M1
+  Operación     T. inicial    T. final    Duración
+  J3-O2               2.50        8.00        5.50
+  J2-O3               8.00       14.10        6.10
+  J2-O5              14.10       17.90        3.80
+  J1-O5              17.90       21.70        3.80
+  Tiempo total de proceso: 19.20 | Fin de la última operación: 21.70
+
+Máquina M2
+  Operación     T. inicial    T. final    Duración
+  J1-O2               0.00        4.20        4.20
+  J5-O2               4.20        8.40        4.20
+  J6-O2               8.40       12.60        4.20
+  J5-O4              12.60       17.90        5.30
+  J3-O5              18.20       21.60        3.40
+  Tiempo total de proceso: 21.30 | Fin de la última operación: 21.60
+
+Máquina M3
+  Operación     T. inicial    T. final    Duración
+  J3-O1               0.00        2.50        2.50
+  J6-O1               2.50        5.00        2.50
+  J2-O1               5.00        7.50        2.50
+  J3-O3               8.00       13.50        5.50
+  J6-O4              13.50       17.30        3.80
+  J6-O5              17.30       21.50        4.20
+  Tiempo total de proceso: 21.00 | Fin de la última operación: 21.50
+
+Máquina M4
+  Operación     T. inicial    T. final    Duración
+  J4-O4               0.00        4.70        4.70
+  J1-O4               4.70        9.40        4.70
+  J4-O5               9.40       13.00        3.60
+  J3-O4              13.50       18.20        4.70
+  Tiempo total de proceso: 17.70 | Fin de la última operación: 18.20
+
+Tiempo de finalización por trabajo
+  J1: 21.70
+  J2: 17.90
+  J3: 21.60
+  J4: 13.00
+  J5: 17.90
+  J6: 21.50

@@ -1,0 +1,99 @@
+Escenario: Escenario3
+Configuración: B
+Semilla: 8
+Makespan (C_max): 34.60
+Carga máxima por máquina (f1): 34.60
+Consumo energético total: 476.60
+
+Máquina M1
+  Operación     T. inicial    T. final    Duración
+  J1-O1               0.00        4.40        4.40
+  J3-O3               4.40        5.60        1.20
+  J11-O3              6.40        7.60        1.20
+  J9-O3               7.60        8.80        1.20
+  J9-O4               8.80       11.50        2.70
+  J3-O11             11.50       21.20        9.70
+  J4-O2              21.20       23.60        2.40
+  J4-O3              23.60       24.80        1.20
+  J4-O4              24.80       27.50        2.70
+  J3-O13             27.50       32.00        4.50
+  Tiempo total de proceso: 31.20 | Fin de la última operación: 32.00
+
+Máquina M2
+  Operación     T. inicial    T. final    Duración
+  J12-O2              0.00        1.50        1.50
+  J6-O5               1.50        3.80        2.30
+  J7-O2               3.80        5.30        1.50
+  J1-O5               5.30        7.60        2.30
+  J11-O5              7.60        9.90        2.30
+  J2-O2               9.90       11.40        1.50
+  J5-O12             11.40       13.20        1.80
+  J5-O13             13.20       16.60        3.40
+  J2-O4              16.60       20.30        3.70
+  J10-O11            20.30       28.30        8.00
+  J11-O13            28.30       31.70        3.40
+  J4-O5              31.70       34.00        2.30
+  Tiempo total de proceso: 34.00 | Fin de la última operación: 34.00
+
+Máquina M3
+  Operación     T. inicial    T. final    Duración
+  J10-O9              0.00        1.30        1.30
+  J3-O7               5.60        7.20        1.60
+  J3-O9               7.20        8.50        1.30
+  J11-O7              9.90       11.50        1.60
+  J1-O8              11.50       13.40        1.90
+  J11-O9             13.40       14.70        1.30
+  J9-O7              14.70       16.30        1.60
+  J6-O15             16.30       17.30        1.00
+  J12-O8             17.30       19.20        1.90
+  J9-O8              19.20       21.10        1.90
+  J7-O8              21.10       23.00        1.90
+  J2-O10             23.40       29.10        5.70
+  J5-O15             29.10       30.10        1.00
+  J9-O15             30.10       31.10        1.00
+  J11-O15            31.70       32.70        1.00
+  J3-O15             32.70       33.70        1.00
+  Tiempo total de proceso: 27.00 | Fin de la última operación: 33.70
+
+Máquina M4
+  Operación     T. inicial    T. final    Duración
+  J11-O1              0.00        6.40        6.40
+  J12-O4              6.40       11.30        4.90
+  J10-O10            11.30       17.20        5.90
+  J5-O14             17.20       18.90        1.70
+  J8-O1              18.90       25.30        6.40
+  J1-O12             25.30       26.70        1.40
+  J9-O12             26.70       28.10        1.40
+  J7-O14             28.10       29.80        1.70
+  J12-O12            29.80       31.20        1.40
+  J2-O14             31.20       32.90        1.70
+  J12-O14            32.90       34.60        1.70
+  Tiempo total de proceso: 34.60 | Fin de la última operación: 34.60
+
+Máquina M5
+  Operación     T. inicial    T. final    Duración
+  J5-O10              0.00        2.70        2.70
+  J5-O11              2.70        9.10        6.40
+  J4-O1               9.10       11.50        2.40
+  J12-O6             11.50       12.90        1.40
+  J6-O10             12.90       15.60        2.70
+  J11-O11            15.60       22.00        6.40
+  J2-O6              22.00       23.40        1.40
+  J12-O10            23.40       26.10        2.70
+  J8-O6              26.10       27.50        1.40
+  J8-O11             27.50       33.90        6.40
+  Tiempo total de proceso: 33.90 | Fin de la última operación: 33.90
+
+Tiempo de finalización por trabajo
+  J1: 26.70
+  J2: 32.90
+  J3: 33.70
+  J4: 34.00
+  J5: 30.10
+  J6: 17.30
+  J7: 29.80
+  J8: 33.90
+  J9: 31.10
+  J10: 28.30
+  J11: 32.70
+  J12: 34.60

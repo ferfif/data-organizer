@@ -1,0 +1,98 @@
+Escenario: Escenario2
+Configuración: D
+Semilla: 2
+Makespan (C_max): 20.70
+Carga máxima por máquina (f1): 14.00
+Consumo energético total: 132.10
+
+Máquina M1
+  Operación     T. inicial    T. final    Duración
+  J4-O6               2.10        5.00        2.90
+  J3-O6              12.40       15.30        2.90
+  J8-O6              17.60       20.50        2.90
+  Tiempo total de proceso: 8.70 | Fin de la última operación: 20.50
+
+Máquina M2
+  Operación     T. inicial    T. final    Duración
+  J1-O6               7.40       13.70        6.30
+  J4-O8              13.70       18.10        4.40
+  Tiempo total de proceso: 10.70 | Fin de la última operación: 18.10
+
+Máquina M3
+  Operación     T. inicial    T. final    Duración
+  J1-O1               0.00        3.00        3.00
+  J1-O3               3.00        7.40        4.40
+  J7-O8              13.00       15.60        2.60
+  J3-O8              18.10       20.70        2.60
+  Tiempo total de proceso: 12.60 | Fin de la última operación: 20.70
+
+Máquina M4
+  Operación     T. inicial    T. final    Duración
+  J2-O2               0.00        2.80        2.80
+  J3-O2               2.90        5.70        2.80
+  J7-O2               5.70        8.50        2.80
+  J9-O2               8.50       11.30        2.80
+  J5-O2              11.30       14.10        2.80
+  Tiempo total de proceso: 14.00 | Fin de la última operación: 14.10
+
+Máquina M5
+  Operación     T. inicial    T. final    Duración
+  J6-O3               0.00        2.10        2.10
+  J3-O3               5.70        7.80        2.10
+  J9-O3              11.30       13.40        2.10
+  J10-O7             13.40       19.60        6.20
+  Tiempo total de proceso: 12.50 | Fin de la última operación: 19.60
+
+Máquina M6
+  Operación     T. inicial    T. final    Duración
+  J2-O4               2.80        5.30        2.50
+  J3-O4               7.80       10.30        2.50
+  J10-O4             10.30       12.80        2.50
+  J8-O4              12.80       15.30        2.50
+  J5-O4              15.30       17.80        2.50
+  Tiempo total de proceso: 12.50 | Fin de la última operación: 17.80
+
+Máquina M7
+  Operación     T. inicial    T. final    Duración
+  J3-O1               0.00        2.90        2.90
+  J10-O1              2.90        5.80        2.90
+  J5-O1               5.80        8.70        2.90
+  J8-O1               8.70       11.60        2.90
+  Tiempo total de proceso: 11.60 | Fin de la última operación: 11.60
+
+Máquina M8
+  Operación     T. inicial    T. final    Duración
+  J7-O6               8.50       13.00        4.50
+  J1-O8              13.70       17.00        3.30
+  J9-O8              17.00       20.30        3.30
+  Tiempo total de proceso: 11.10 | Fin de la última operación: 20.30
+
+Máquina M9
+  Operación     T. inicial    T. final    Duración
+  J4-O5               0.00        2.10        2.10
+  J6-O5               2.10        4.20        2.10
+  J2-O5               5.30        7.40        2.10
+  J3-O5              10.30       12.40        2.10
+  J9-O5              13.40       15.50        2.10
+  J8-O5              15.50       17.60        2.10
+  Tiempo total de proceso: 12.60 | Fin de la última operación: 17.60
+
+Máquina M10
+  Operación     T. inicial    T. final    Duración
+  J6-O7               4.20        7.00        2.80
+  J4-O7               7.00        9.80        2.80
+  J2-O7               9.80       12.60        2.80
+  J3-O7              15.30       18.10        2.80
+  Tiempo total de proceso: 11.20 | Fin de la última operación: 18.10
+
+Tiempo de finalización por trabajo
+  J1: 17.00
+  J2: 12.60
+  J3: 20.70
+  J4: 18.10
+  J5: 17.80
+  J6: 7.00
+  J7: 15.60
+  J8: 20.50
+  J9: 20.30
+  J10: 19.60
